@@ -17,8 +17,6 @@ determine whether the suggested strategy performs better in terms of accuracy an
 ## About the dataset
 The Amazon Rating mini-dataset contains multiple datasets for different categories, and we will focus on the Books and Kindle Store data. Upon initial analysis, we discovered that the Books data has 15,362,619 unique users, while the Kindle data has 2,409,261 unique users. Additionally, there are 1,780,433 users who have provided ratings for both categories, which can aid in creating more effective recommendations that span across categories.
 
-## Getting Started
-
 ## Tools and Technology Used
 1. Python 3
 2. Surprise Library
