@@ -28,3 +28,7 @@ The Amazon Rating mini-dataset contains multiple datasets for different categori
 6. Google Collab
 
 ## Contributors
+1. Indranil Banerjee
+2. Jayraj Mulani
+3. Devanshi Savla
+4. Leo Hsiang
